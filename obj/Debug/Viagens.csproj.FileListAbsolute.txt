@@ -171,3 +171,6 @@ C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Vi
 C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.application
 C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.exe.manifest
 C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.application
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\GaiaPai\bin\Debug\Viagens.exe.config
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\GaiaPai\obj\Debug\Viagens.exe
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\GaiaPai\obj\Debug\Viagens.pdb

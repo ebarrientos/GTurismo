@@ -55,7 +55,7 @@ namespace Viagens
             }
             else
             {
-                MessageBox.Show("Usuário ou Senha inválido.");
+                MessageBox.Show("Usuário ou Senha inválido.x");
                 tbUsuario.Focus();
                 tbUsuario.SelectAll();
             }
