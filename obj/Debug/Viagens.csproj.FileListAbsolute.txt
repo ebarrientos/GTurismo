@@ -1,0 +1,173 @@
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\bin\Debug\Viagens.exe.config
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\bin\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\bin\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.CadCli01.resources
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.csproj.GenerateResource.Cache
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Configuración local\Datos de programa\Temporary Projects\Viagens\obj\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.csproj.GenerateResource.Cache
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.csproj.GenerateResource.Cache
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2008\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\AgTur.mdf
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\AgTur_log.ldf
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn02.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPesquisarVenda01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmRealizarVenda01.resources
+C:\Users\Erico\Documents\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.formLogin.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.formLogin.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPesquisarVenda01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmRealizarVenda01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmTProd01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmTProd02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.formLogin.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmCid01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmCid02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmForn02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmPais01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmPais02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmPesquisarVenda01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmProd02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmRealizarVenda01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmTProd01.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.frmTProd02.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Eder Andres\Documents\Edgardo\Projetos\Viagens\Viagens\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli03.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\AMS.TextBox.dll
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\AMS.TextBox.xml
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.formLogin.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCid02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Form1.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmCli03.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmForn02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPais02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPesquisarVenda01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmProd02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmRealizarVenda01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmTProd01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmTProd02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPar01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPar02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPar01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmPar02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\ImpDoc.dll
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\ImpDoc.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\ImpDoc.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\ImpDoc.dll
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmDocs.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmSplash.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr01.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr02.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr03.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\Viagens.exe.config
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\Viagens.exe
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\Viagens.pdb
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\AMS.TextBox.dll
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\ImpDoc.dll
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\AMS.TextBox.xml
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Release\ImpDoc.pdb
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmDocs.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmSplash.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr01.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr02.resources
+C:\Documents and Settings\Luisao\Mis documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.frmUsr03.resources
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.exe.manifest
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\bin\Debug\Viagens.application
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.exe.manifest
+C:\Documents and Settings\Edgardo\Meus documentos\Visual Studio 2010\Projects\Viagens\Viagens\obj\Debug\Viagens.application

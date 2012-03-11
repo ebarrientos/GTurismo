@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Viagens">
+  <DataContextMoniker Name="/ViagensDataContext" />
+  <nestedChildShapes>
+    <classShape Id="71bd1ae0-afd8-4b69-84ff-93171de29324" isExpanded="false" absoluteBounds="5.875, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Cidade" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90cfb254-ee9b-416b-9253-3e5fdd4128eb" absoluteBounds="5.8900000000000006, 2.21, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4b565b6-6c65-472f-9132-61d49dc2ddc8" isExpanded="false" absoluteBounds="8.375, 1.5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Pais" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9227031-a817-4f9b-a704-8c41f82324df" absoluteBounds="8.39, 1.96, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0991be4a-a8ce-4a12-b33a-5a17ff98a83b" isExpanded="false" absoluteBounds="3.625, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Passageiro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="238b61e6-b8fa-4ceb-940b-1cc55e0326ae" absoluteBounds="3.64, 0.96, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.375 : 1.85); (7.875 : 1.85)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Pais/Pais_Cidade" />
+      <nodes>
+        <classShapeMoniker Id="d4b565b6-6c65-472f-9132-61d49dc2ddc8" />
+        <classShapeMoniker Id="71bd1ae0-afd8-4b69-84ff-93171de29324" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b86f4bc5-8021-490d-ae7b-301b0f74e7b3" isExpanded="false" absoluteBounds="1, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Produto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0df493a-3398-44d6-abcc-910c3b22b25e" absoluteBounds="1.0150000000000001, 0.96, 1.9700000000000002, 0.86484781901041663" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6449edd-f696-4263-beb0-643a3341c24d" isExpanded="false" absoluteBounds="0.5, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/TipoProduto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="076949bc-4611-445f-b04b-49d1930fc837" absoluteBounds="0.515, 1.71, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d2adc0b2-ebcf-45b3-89d4-2a72baba2b79" isExpanded="false" absoluteBounds="0.5, 3.125, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/TipoPagamento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e7ce3c6f-92e3-497a-ac1a-659a5b3d34e8" absoluteBounds="0.51500000000000012, 3.585, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9703ad0-21d9-44a3-9508-8b55cd64f669" isExpanded="false" absoluteBounds="5.875, 5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/MotivoViagem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="898e9df9-e975-4f5d-baaa-0417e3d6e995" absoluteBounds="5.8900000000000006, 5.46, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="abaef911-652b-419e-ad5a-27a6233f1659" isExpanded="false" absoluteBounds="8.375, 3.375, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Fornecedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6157f4c1-eab2-4de5-8522-6273beda0238" absoluteBounds="8.39, 3.835, 1.9700000000000002, 2.17962646484375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e61f3752-e317-4490-af1e-847ea0d1204f" absoluteBounds="8.375, 2.25, 2, 1.0961531575520831">
+      <DataClassMoniker Name="/ViagensDataContext/TipoFornecedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5bf73860-b9c1-4243-a5a5-d7c1473b6cc8" absoluteBounds="8.39, 2.71, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.375 : 3.34615315755208); (9.375 : 3.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/TipoFornecedor/TipoFornecedor_Fornecedor" />
+      <nodes>
+        <classShapeMoniker Id="e61f3752-e317-4490-af1e-847ea0d1204f" />
+        <classShapeMoniker Id="abaef911-652b-419e-ad5a-27a6233f1659" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.875 : 2.2); (6.875 : 3.6); (8.375 : 3.6)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cidade/Cidade_Fornecedor" />
+      <nodes>
+        <classShapeMoniker Id="71bd1ae0-afd8-4b69-84ff-93171de29324" />
+        <classShapeMoniker Id="abaef911-652b-419e-ad5a-27a6233f1659" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="748dfcea-af97-48d9-a9ed-4e4f84fe0a91" isExpanded="false" absoluteBounds="2.875, 6.125, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/V_Cidade" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c53d4103-cedf-4e25-be6d-1a5012150d33" absoluteBounds="2.89, 6.585, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ff450131-142c-44f2-81a7-d0d2f669f709" isExpanded="false" absoluteBounds="0.5, 6.75, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/V_ContatoCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fe8500e-cdb2-4786-867a-6c52ae360404" absoluteBounds="0.51500000000000012, 7.21, 1.9700000000000002, 2.508321126302083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15528a7e-f0ac-4a88-8e3b-1082f474539d" isExpanded="false" absoluteBounds="2.875, 6.75, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/V_Passageiro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3c93110a-c861-41f1-9918-75b7fd017df8" absoluteBounds="2.89, 7.21, 1.9700000000000002, 2.8370157877604165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="994d6a57-2963-4fa4-beec-0e0540f05901" isExpanded="false" absoluteBounds="0.5, 6.125, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/V_Venda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a8e6ef9-29c4-4f3b-8449-de16f3b1aab4" absoluteBounds="0.51500000000000012, 6.585, 1.9700000000000002, 3.3300577799479165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53035c0e-0f92-47dc-897b-de8b92807b11" absoluteBounds="5.875, 5.75, 2, 1.2605004882812496">
+      <DataClassMoniker Name="/ViagensDataContext/TipoMoeda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f5520ae8-8992-4bbc-868c-b597914a8b6b" absoluteBounds="5.89, 6.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2f9cd206-4bcd-412f-876a-c80360945590" isExpanded="false" absoluteBounds="5.875, 4, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Parcela" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50477693-0621-4b36-a64b-2776106bd0c4" absoluteBounds="5.8900000000000006, 4.46, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="92dbb4d2-b3ac-4c0d-8f53-f47e8bf28eab" isExpanded="false" absoluteBounds="8.375, 4, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/FormaPagamento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19789bb9-436e-4be7-b53d-cc0b9ee600af" absoluteBounds="8.39, 4.46, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.8750005 : 4.45); (8.8750005 : 4.75); (8.23106060606061 : 4.75 : JumpStart); (8.06439393939394 : 4.75 : JumpEnd); (6.0937505 : 4.75); (6.0937505 : 4.45)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/FormaPagamento/FormaPagamento_Parcela" />
+      <nodes>
+        <classShapeMoniker Id="92dbb4d2-b3ac-4c0d-8f53-f47e8bf28eab" />
+        <classShapeMoniker Id="2f9cd206-4bcd-412f-876a-c80360945590" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="34198e12-42e9-4032-a0dd-7a803619e6f2" isExpanded="false" absoluteBounds="8.375, 5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/SituacaoParcela" />
+      <nestedChildShapes>
+        <elementListCompartment Id="744794db-4d77-441b-a655-4260bf24119e" absoluteBounds="8.39, 5.46, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.375 : 5); (7.875 : 4.45)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/SituacaoParcela/SituacaoParcela_Parcela" />
+      <nodes>
+        <classShapeMoniker Id="34198e12-42e9-4032-a0dd-7a803619e6f2" />
+        <classShapeMoniker Id="2f9cd206-4bcd-412f-876a-c80360945590" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="98b7a0f3-a4ba-422f-9e5c-65df4b444ecd" isExpanded="false" absoluteBounds="8.375, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/ContatoCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b770011-25e6-4a7b-8bfc-583fd51c6d2d" absoluteBounds="8.39, 1.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9d150d6-b390-47e6-8e03-1110ba7f31c1" isExpanded="false" absoluteBounds="0.5, 2.5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/SituacaoVenda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da97571d-47bb-44c5-8270-cffbff946f88" absoluteBounds="0.51500000000000012, 2.96, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9a04c4a-80a7-4f11-b5ab-30852af829c8" isExpanded="false" absoluteBounds="0.5, 4.375, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/MotivoCancelamento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f4f4b10-e5b0-478a-8e54-7b892a13fb24" absoluteBounds="0.51500000000000012, 4.835, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="016b4853-20b0-4b07-910c-5fb4faec6d7d" isExpanded="false" absoluteBounds="0.5, 3.75, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/TipoReembolso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34b484c7-9c59-4f9b-b5b9-ed67e20eec73" absoluteBounds="0.51500000000000012, 4.21, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a757e83-9c88-41ba-ba7d-f969cd85d4cf" isExpanded="false" absoluteBounds="0.5, 1.875, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c82cd4f-7e42-42cd-8e25-df0bc896a64a" absoluteBounds="0.51500000000000012, 2.335, 1.9700000000000002, 1.19354248046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" isExpanded="false" absoluteBounds="3.125, 5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Venda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0545e82a-d3e1-468f-a18f-d5af36f87697" absoluteBounds="3.1399999999999997, 5.46, 1.9700000000000002, 4.8091837565104161" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.29491984375 : 5); (4.29491984375 : 0.95)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Venda/Venda_Passageiro" />
+      <nodes>
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+        <classShapeMoniker Id="0991be4a-a8ce-4a12-b33a-5a17ff98a83b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.125 : 5); (5.875 : 4.45)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Venda/Venda_Parcela" />
+      <nodes>
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+        <classShapeMoniker Id="2f9cd206-4bcd-412f-876a-c80360945590" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 1.914061875); (5.58333333333333 : 1.914061875 : JumpStart); (5.41666666666667 : 1.914061875 : JumpEnd); (4.37825317708333 : 1.914061875 : JumpStart); (4.21158651041667 : 1.914061875 : JumpEnd); (3.62304515625 : 1.914061875); (3.62304515625 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Cidade/Cidade_Venda" />
+      <nodes>
+        <classShapeMoniker Id="71bd1ae0-afd8-4b69-84ff-93171de29324" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.375 : 3.7437525); (5.58333333333333 : 3.7437525 : JumpStart); (5.41666666666667 : 3.7437525 : JumpEnd); (4.73060441105769 : 3.7437525); (4.73060441105769 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Fornecedor/Fornecedor_Venda" />
+      <nodes>
+        <classShapeMoniker Id="abaef911-652b-419e-ad5a-27a6233f1659" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.375 : 3.4562475); (6.95833333333333 : 3.4562475 : JumpStart); (6.79166666666667 : 3.4562475 : JumpEnd); (5.58333333333333 : 3.4562475 : JumpStart); (5.41666666666667 : 3.4562475 : JumpEnd); (4.59609546073718 : 3.4562475 : JumpStart); (4.42942879407051 : 3.4562475 : JumpEnd); (4.37825317708333 : 3.4562475 : JumpStart); (4.21158651041667 : 3.4562475 : JumpEnd); (4.04491703125 : 3.4562475); (4.04491703125 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Fornecedor/Fornecedor_Venda1" />
+      <nodes>
+        <classShapeMoniker Id="abaef911-652b-419e-ad5a-27a6233f1659" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 4.825); (3.125 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/MotivoCancelamento/MotivoCancelamento_Venda" />
+      <nodes>
+        <classShapeMoniker Id="d9a04c4a-80a7-4f11-b5ab-30852af829c8" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 0.725); (3.375 : 0.725); (3.375 : 1.2); (3.288088046875 : 1.2); (3.288088046875 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Produto/Produto_Venda" />
+      <nodes>
+        <classShapeMoniker Id="b86f4bc5-8021-490d-ae7b-301b0f74e7b3" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.725); (3.20475471354167 : 2.725 : JumpStart); (3.37142138020833 : 2.725 : JumpEnd); (3.4555666015625 : 2.725); (3.4555666015625 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/SituacaoVenda/SituacaoVenda_Venda" />
+      <nodes>
+        <classShapeMoniker Id="d9d150d6-b390-47e6-8e03-1110ba7f31c1" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 5.75); (5.125 : 5.45)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/TipoMoeda/TipoMoeda_Venda" />
+      <nodes>
+        <classShapeMoniker Id="53035c0e-0f92-47dc-897b-de8b92807b11" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 4.2); (3.125 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/TipoReembolso/TipoReembolso_Venda" />
+      <nodes>
+        <classShapeMoniker Id="016b4853-20b0-4b07-910c-5fb4faec6d7d" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.042185625); (3.20475471354167 : 2.042185625 : JumpStart); (3.37142138020833 : 2.042185625 : JumpEnd); (3.53971182291667 : 2.042185625 : JumpStart); (3.70637848958333 : 2.042185625 : JumpEnd); (4.21158651041667 : 2.042185625 : JumpStart); (4.37825317708333 : 2.042185625 : JumpEnd); (4.51276212740385 : 2.042185625); (4.51276212740385 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Usuario/Usuario_Venda" />
+      <nodes>
+        <classShapeMoniker Id="6a757e83-9c88-41ba-ba7d-f969cd85d4cf" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 2.2148453125); (3.20475471354167 : 2.2148453125 : JumpStart); (3.37142138020833 : 2.2148453125 : JumpEnd); (3.53971182291667 : 2.2148453125 : JumpStart); (3.70637848958333 : 2.2148453125 : JumpEnd); (3.83398109375 : 2.2148453125); (3.83398109375 : 5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Usuario/Usuario_Venda1" />
+      <nodes>
+        <classShapeMoniker Id="6a757e83-9c88-41ba-ba7d-f969cd85d4cf" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" isExpanded="false" absoluteBounds="6, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fb636224-05e2-4eca-8fd8-23095834c97b" absoluteBounds="6.015, 0.96, 1.9700000000000002, 3.16571044921875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 0.725); (5.625 : 0.725)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cliente/Cliente_Passageiro" />
+      <nodes>
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+        <classShapeMoniker Id="0991be4a-a8ce-4a12-b33a-5a17ff98a83b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8 : 0.85); (8.375 : 0.85)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cliente/Cliente_ContatoCliente" />
+      <nodes>
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+        <classShapeMoniker Id="98b7a0f3-a4ba-422f-9e5c-65df4b444ecd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6 : 0.95); (5.625 : 1.325); (5.5 : 1.325); (5.5 : 4.71578823750296); (5.11773076923077 : 5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cliente/Cliente_Venda" />
+      <nodes>
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.9375 : 1.75); (6.9375 : 0.95)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cidade/Cidade_Cliente" />
+      <nodes>
+        <classShapeMoniker Id="71bd1ae0-afd8-4b69-84ff-93171de29324" />
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.68419230769231 : 0.5); (6.68419230769231 : 0.25); (7.33084615384615 : 0.25); (7.33084615384615 : 0.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ViagensDataContext/Cliente/Cliente_Cliente" />
+      <nodes>
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+        <classShapeMoniker Id="1d57b2ac-d700-4d9a-a89b-12ce62f2c163" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="cc0d18d9-5210-465a-b5ed-89a3c35cb502" isExpanded="false" absoluteBounds="0.5, 5, 2, 0.45">
+      <DataClassMoniker Name="/ViagensDataContext/HistoricoVenda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15dea3e5-9a99-45d4-8059-03fd63f869bd" absoluteBounds="0.51500000000000012, 5.46, 1.9700000000000002, 1.0291951497395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.125 : 5.2562525); (2.5 : 5.2562525)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ViagensDataContext/Venda/Venda_HistoricoVenda" />
+      <nodes>
+        <classShapeMoniker Id="1c5ef045-3048-49c2-9d62-5cd287baf9c9" />
+        <classShapeMoniker Id="cc0d18d9-5210-465a-b5ed-89a3c35cb502" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

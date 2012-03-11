@@ -1,0 +1,86 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Viagens.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AgTurConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString3" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString5" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString6" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString7" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString8" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+    <Setting Name="AgTurConnectionString9" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=jebm01\SQLExpress,1958;Initial Catalog=AgTur;Network Library=dbmssocn;Connect Timeout=30;User ID=AgTurAdm;Password=erico-pc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1FC93DC7-5040-4E83-97C1-0F1766E880FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Viagens</RootNamespace>
+    <AssemblyName>Viagens</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Documents and Settings\All Users\Documentos\Gaia\Deploy\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cocktail.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EB1FC7293A4F905B452EFA134F8AAA684413D1B7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Viagens_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AMS.TextBox">
+      <HintPath>..\..\Controles\ValidatingTextBox\bin\Release\AMS.TextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="ImpDoc">
+      <HintPath>..\..\ConWord\bin\Release\ImpDoc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acc.cs" />
+    <Compile Include="cad.cs" />
+    <Compile Include="CidadeView.cs" />
+    <Compile Include="cParcelas.cs" />
+    <Compile Include="Documentos.cs" />
+    <Compile Include="formLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLogin.Designer.cs">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCli03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCli03.Designer.cs">
+      <DependentUpon>frmCli03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCon01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCon01.Designer.cs">
+      <DependentUpon>frmCon01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocs.Designer.cs">
+      <DependentUpon>frmDocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPar01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPar01.Designer.cs">
+      <DependentUpon>frmPar01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPar02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPar02.Designer.cs">
+      <DependentUpon>frmPar02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsr01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsr01.Designer.cs">
+      <DependentUpon>frmUsr01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsr02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsr02.Designer.cs">
+      <DependentUpon>frmUsr02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsr03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsr03.Designer.cs">
+      <DependentUpon>frmUsr03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listas.cs" />
+    <Compile Include="Properties\SpecialSettings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>SpecialSettings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Views.cs" />
+    <Compile Include="frmCid01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCid01.Designer.cs">
+      <DependentUpon>frmCid01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCid02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCid02.Designer.cs">
+      <DependentUpon>frmCid02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCli01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCli01.Designer.cs">
+      <DependentUpon>frmCli01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCli02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCli02.Designer.cs">
+      <DependentUpon>frmCli02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmForn01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForn01.Designer.cs">
+      <DependentUpon>frmForn01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmForn02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForn02.Designer.cs">
+      <DependentUpon>frmForn02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPais01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPais01.Designer.cs">
+      <DependentUpon>frmPais01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPais02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPais02.Designer.cs">
+      <DependentUpon>frmPais02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPesquisarVenda01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPesquisarVenda01.Designer.cs">
+      <DependentUpon>frmPesquisarVenda01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProd02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProd02.Designer.cs">
+      <DependentUpon>frmProd02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProd01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProd01.Designer.cs">
+      <DependentUpon>frmProd01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRealizarVenda01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRealizarVenda01.Designer.cs">
+      <DependentUpon>frmRealizarVenda01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTProd01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTProd01.Designer.cs">
+      <DependentUpon>frmTProd01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTProd02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTProd02.Designer.cs">
+      <DependentUpon>frmTProd02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="formLogin.resx">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCid01.resx">
+      <DependentUpon>frmCid01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCid02.resx">
+      <DependentUpon>frmCid02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCli01.resx">
+      <DependentUpon>frmCli01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCli02.resx">
+      <DependentUpon>frmCli02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCli03.resx">
+      <DependentUpon>frmCli03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCon01.resx">
+      <DependentUpon>frmCon01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocs.resx">
+      <DependentUpon>frmDocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForn01.resx">
+      <DependentUpon>frmForn01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForn02.resx">
+      <DependentUpon>frmForn02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPais01.resx">
+      <DependentUpon>frmPais01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPais02.resx">
+      <DependentUpon>frmPais02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPar01.resx">
+      <DependentUpon>frmPar01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPar02.resx">
+      <DependentUpon>frmPar02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPesquisarVenda01.resx">
+      <DependentUpon>frmPesquisarVenda01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProd01.resx">
+      <DependentUpon>frmProd01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProd02.resx">
+      <DependentUpon>frmProd02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRealizarVenda01.resx">
+      <DependentUpon>frmRealizarVenda01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTProd01.resx">
+      <DependentUpon>frmTProd01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTProd02.resx">
+      <DependentUpon>frmTProd02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsr01.resx">
+      <DependentUpon>frmUsr01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsr02.resx">
+      <DependentUpon>frmUsr02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsr03.resx">
+      <DependentUpon>frmUsr03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\SpecialSettings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>SpecialSettings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Viagens.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>Viagens.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Viagens.dbml.layout">
+      <DependentUpon>Viagens.dbml</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="util.cs" />
+    <Compile Include="Viagens.cs">
+      <DependentUpon>Viagens.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Viagens.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Viagens.dbml</DependentUpon>
+    </Compile>
+    <None Include="Viagens_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GaiaFundo4.jpg" />
+    <None Include="Resources\GaiaTurismo.jpg" />
+    <None Include="Resources\Terra011.jpeg" />
+    <None Include="Resources\Terra01.jpeg" />
+    <None Include="brasil-turismo.jpg" />
+    <Content Include="cocktail.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

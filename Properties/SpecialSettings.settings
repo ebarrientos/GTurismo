@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Viagens.Properties" GeneratedClassName="SpecialSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ArquivoContratos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contratos.ini</Value>
+    </Setting>
+    <Setting Name="DiretorioContratos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contratos</Value>
+    </Setting>
+    <Setting Name="EstiloTabelaImp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sombreamento Claro - Ênfase 1</Value>
+    </Setting>
+    <Setting Name="DiretórioTrabalho" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Temp</Value>
+    </Setting>
+    <Setting Name="EstiloTabelaImp2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sombreado Claro - Énfasis 1</Value>
+    </Setting>
+    <Setting Name="EstiloTabelaCar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tabela com grade 8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
